@@ -1,2 +1,41 @@
 *.class
 *Zone.Identifier
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Eclipse files
+*.classpath
+*.project
+*.settings/
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
+# VS Code files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment and config files
+.env
+*.properties.local
+
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Backup files
+*~
+*.bak
+*.swp
+
+.class,
+.jar
